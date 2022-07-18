@@ -16,6 +16,8 @@ Nesse repositório se encontram o arquivo BuscaString.cpp onde devem ser impleme
 
 Você deve acompanhar o tutorial feito em sala e implementar as funções para buscar uma substring usando força-bruta e usando o algoritmo KMP.
 
+Para a entrega, instrumente o código para calcular e imprimir o numero de comparações realizadas por cada método e o tempo que cada método leva para retornar uma busca sem sucesso.
+
 ## Compilação e Execução
 
 Para compilar:
