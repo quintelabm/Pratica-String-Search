@@ -34,7 +34,7 @@ cmake --build build
 
 Para executar:
 
-- executável na basta build + texto.txt na pasta input + padrao
+- executável na pasta "build" + texto na pasta "bs-lib/input" + "padrao"
 
 ```
 ./build/main ./bs-lib/input/texto.txt GATTACACCCCAAAAACCCC
