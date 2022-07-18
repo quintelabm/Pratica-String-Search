@@ -10,7 +10,7 @@ O objetivo da atividade prática é compreender melhor os dois algoritmos de bus
 
 ## Conteúdo
 
-Nesse repositório se encontram o arquivo BuscaString.cpp onde devem ser implementados os algoritmos.
+Nesse repositório se encontram o arquivo BuscaString.cpp onde devem ser implementados os algoritmos. E o arquivo texto.txt contendo o codigo genetico do vírus MonkeyPox.
 
 ## O que deve ser feito?
 
